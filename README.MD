@@ -4,7 +4,7 @@
 
 ### Блок 1. Компоненты
 
-1.1. [Компоненты](/Components/README.MD)
+1.1. [Компоненты](https://github.com/npukojiucm/Components)
 
 1.2. [События и состояние](events-state)
 
